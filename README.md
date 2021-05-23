@@ -1,3 +1,5 @@
+#CLIENT-SYSTEM
+
 Write a program that calculates the amount of money the beauty shop receives per month,display and output the money.
 START
 Prompt the amount of money
